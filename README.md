@@ -1,5 +1,5 @@
 # QR_generat
-
+author:-kunal
 # QR Code Generator
 
 This project is a simple QR code generator implemented in Python.<br> It allows users to create QR codes from given URLs then Display and save it to their local system.
