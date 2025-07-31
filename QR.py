@@ -2,7 +2,7 @@ import qrcode
 
 URL=input("Enter the URL to generate QR code: ")
 # Input data for the QR code
-input_data = URL#"https://www.w3schools.com/"
+input_data = URL#"https://github.com/kunal-hr60"
 
 # Create QR code instance
 qr = qrcode.QRCode(
