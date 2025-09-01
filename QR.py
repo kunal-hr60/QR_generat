@@ -22,7 +22,7 @@ img = qr.make_image(fill_color="black", back_color="white")
 # Save the image
 # img.save("my_qrcode.png")
 
-print("QR code generated and saved as my_qrcode.png for data:", input_data)
+print("QR code generated for data:", input_data)
 
 #Display the QR image
 img.show()
